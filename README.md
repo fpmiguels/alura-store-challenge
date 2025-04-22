@@ -1,8 +1,10 @@
-Análise de Vendas por Loja
+# Análise de Vendas por Loja
+
 Este repositório contém um projeto de análise de dados de vendas por loja, onde são exploradas várias métricas, incluindo faturamento, categorias de produtos, avaliações, 
 desempenho de vendas e custo de frete. Além disso, o projeto utiliza coordenadas geográficas para identificar padrões relacionados à localização das compras.
 
-Objetivo
+# Objetivo
+
 O objetivo deste projeto é realizar uma análise detalhada de vendas em diferentes lojas e gerar visualizações que ajudem a entender os fatores que impactam o 
 desempenho de cada loja. A análise inclui:
 
