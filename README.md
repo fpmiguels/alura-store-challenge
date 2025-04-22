@@ -38,5 +38,3 @@ Calcular o custo médio de frete para cada loja.
 
 6. Análise Geográfica das Vendas
 Usar as colunas de latitude e longitude para identificar padrões de vendas com base na localização geográfica.
-
-Gerar gráficos de dispersão para visualizar a concentração de vendas em diferentes regiões.
